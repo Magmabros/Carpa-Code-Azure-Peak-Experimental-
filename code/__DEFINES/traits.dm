@@ -44,6 +44,10 @@
 #define TRAIT_TRAINED_SMITH "Herrero Entrenado"
 #define TRAIT_GUARDSMAN "Guardia Vigilante"
 #define TRAIT_KNIGHTSMAN "Resistencia Real"
+#define TRAIT_BANDIT_HUD "Honor Entre Ladrones"
+#define TRAIT_MONTYPYTHON_KING "Elegido Real"
+#define TRAIT_INCEST "Incestuoso"
+#define TRAIT_OUTDOORSMAN "De fuera"
 
 //Hearthstone port (Tracking)
 #define TRAIT_PERFECT_TRACKER "Rastreador Experimentado" //Will always find any tracks and analyzes them perfectly.
